@@ -2,7 +2,7 @@
 
 // Before ES6 there were only two data structure and those were "Arrays" and "Objects" but in ES6 two more data structure been introduced which are "Sets" and "Maps".
 
-// Sets is a combination of unique element . It does not repeat the elements .
+// Sets is  combination of unique element . It does not repeat the elements .
 
 const details = new Set(["Qas", "Jaddy", 22, 22, "London", "London"]);
 console.log(details); //output => {'Qas', 'Jaddy', 22, 'London'}
